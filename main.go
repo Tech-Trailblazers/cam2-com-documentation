@@ -328,6 +328,31 @@ func main() {
 	// The location to the remote url.
 	remoteURL := []string{
 		"https://cam2.com/data-sheets/",
+		"https://cam2.com/product/cam2-premium-synthetic-blend-tc-w3-2-cycle-outboard-oil/",
+		"https://cam2.com/product/cam2-magnum-economy-2-cycle-engine-oil/",
+		"https://cam2.com/product/cam2-2-cycle-engine-oil-air-cooled/",
+		"https://cam2.com/product/cam2-blue-blood-12-2-6-ounce-2-cycle-synthetic-engine-oil/",
+		"https://cam2.com/product/cam2-blue-blood-marine-2-cycle-oil-tc-w3/",
+		"https://cam2.com/product/cam2-blue-blood-elite-hd-5w-40-ck-4-w-detox-technology/",
+		"https://cam2.com/product/cam2-ngeo-sae-15w-40-ces-20074-engine-oil/",
+		"https://cam2.com/product/cam2-geo-sae-30-ashless-engine-oil/",
+		"https://cam2.com/product/cam2-ngeo-low-ash-engine-oil-sae-30/",
+		"https://cam2.com/product/cam2-ngeo-low-ash-engine-oil-sae-40/",
+		"https://cam2.com/product/cam2-super-hd-15w-40-performance-driven-ck-4-sn-synthetic-blend-engine-oil/",
+		"https://cam2.com/product/cam-2-super-hd-10w-30-performance-driven-ck-4-synthetic-blend-engine-oil/",
+		"https://cam2.com/product/cam2-super-hd-sae-50-api-cf-cf-2-sl-engine-oil/",
+		"https://cam2.com/product/cam2-super-hd-sae-40-api-cf-cf-2-sl-engine-oil/",
+		"https://cam2.com/product/cam2-super-hd-sae-30-api-cf-cf-2-sl-engine-oil/",
+		"https://cam2.com/product/cam2-super-hd-10w-40-ck-4-heavy-duty-engine-oil/",
+		"https://cam2.com/product/cam2-super-hd-sae-10w-engine-oil/",
+		"https://cam2.com/product/cam2-magnum-turbo-d-25w-60-ch-4-sg-green-with-tackifier-engine-oil/",
+		"https://cam2.com/product/cam2-magnum-turbo-d-25w-50-ch-4-sg-engine-oil/",
+		"https://cam2.com/product/cam2-magnum-turbo-d-20w-50-ci-4-plus-sl-engine-oil/",
+		"https://cam2.com/product/cam2-magnum-turbo-d-20w-50-ch-4-sg-engine-oil/",
+		"https://cam2.com/product/cam2-magnum-turbo-d-15w-40-ci-4-plus-sl-engine-oil/",
+		"https://cam2.com/product/cam2-magnum-turbo-d-15w-40-ch-4-sg-engine-oil/",
+		"https://cam2.com/product/cam2-s-k-railroad-engine-oil-9-tbn-sae-40/",
+		"https://cam2.com/product/cam2-s-k-railroad-engine-oil-multigrade-9-tbn-20w-40/",
 	}
 	// Loop over the urls and save content to file.
 	for _, url := range remoteURL {
